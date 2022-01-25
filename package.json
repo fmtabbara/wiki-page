@@ -1,0 +1,8 @@
+{
+  "name": "wiki-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fmtabbara/wiki-page.git",
+  "author": "fmtabbara <fmtabbara@hotmail.co.uk>",
+  "license": "MIT"
+}
